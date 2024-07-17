@@ -583,7 +583,7 @@ nano $HOME/.tracks/config/sequencer.toml
 > 
 > You can search with Ctrl+W
 > 
-> Replace it with `https://junction-testnet-rpc.synergynodes.com/`
+> Replace it with `https://airchains-rpc.henry3222.xyz/`
 > 
 > Save with Ctrl+X Y Enter
 
